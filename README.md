@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.pinimg.com/originals/c4/c6/fb/c4c6fb0469f227a4d297c68059dc950d.jpg" alt="zeevalya" width="170" />
 
-## HEXA-API
+## ZEEV-API
 
 </div>
 
@@ -9,7 +9,7 @@
 <a href="##"><img title="zeev-api" src="https://img.shields.io/static/v1?label=package&message=zeev-api&color=red"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Zeetoyah002"><img title="Author" src="https://img.shields.io/badge/Author-Hexagonz-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Zeetoyah002"><img title="Author" src="https://img.shields.io/badge/Author-Zeetoyah002-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="api-xyz" src="https://img.shields.io/static/v1?label=FREE&message=hxz-api&color=pink"></a>
