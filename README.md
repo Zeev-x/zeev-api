@@ -11,9 +11,6 @@
 <p align="center">
   <a href="https://github.com/Zeetoyah002"><img title="Author" src="https://img.shields.io/badge/Author-Zeevalya-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
-<p align="center">
-<a href="#"><img title="ini api ajg" src="https://img.shields.io/static/v1?label=FREE&message=zeev-api&color=pink"></a>
-</p>
 
 ## ```INSTALL```
 > npm install zeev-api
