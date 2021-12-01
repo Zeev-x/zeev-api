@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://telegra.ph/file/686629e078e4f96be87cf.jpg" alt="zeev" width="170" />
 
@@ -11,6 +12,9 @@
 <p align="center">
   <a href="https://github.com/Zeetoyah002"><img title="Author" src="https://img.shields.io/badge/Author-Zeevalya-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
+
+
+# • Sedikit penjelasan tentang [Zeev-Api](https://github.com/Zeev-x/zeev-api)
 
 ## ```INSTALL```
 > npm install zeev-api
